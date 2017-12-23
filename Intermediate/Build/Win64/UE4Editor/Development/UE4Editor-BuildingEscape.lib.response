@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildingEscape.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.cpp.obj"
+"C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj"
+"C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.init.gen.cpp.obj"
+"C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.gen.cpp.obj"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\PCLaunch.rc.res"
+"D:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape.lib"
