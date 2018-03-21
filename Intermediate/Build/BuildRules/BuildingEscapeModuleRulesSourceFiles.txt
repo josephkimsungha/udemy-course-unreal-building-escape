@@ -1,3 +1,0 @@
-C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
-C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Source\BuildingEscape.Target.cs
-C:\Users\The Kim Machine\Documents\Game Development\BuildingEscape\Source\BuildingEscapeEditor.Target.cs

@@ -18,10 +18,11 @@ void UPositionReporter::BeginPlay()
 {
 	Super::BeginPlay();
 
-	AActor* ThisObject = GetOwner();
+	AActor* Owner = GetOwner();
+	FString ObjectName = Owner->GetName();
+	FString ObjectPos = Owner->GetActorLocation().ToString();
 
-	FString ObjectName = ThisObject->GetName();
-	UE_LOG(LogTemp, Warning, TEXT("Position Reporter is ready on %s! :)"), *ObjectName);
+	UE_LOG(LogTemp, Warning, TEXT("%s is at coordinates %s"), *ObjectName, *ObjectPos);
 }
 
 
